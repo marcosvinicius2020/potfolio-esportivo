@@ -1,2 +1,2 @@
-# potfolio-esportivo
+# portfolio-esportivo
 meu portfolio esportivo
